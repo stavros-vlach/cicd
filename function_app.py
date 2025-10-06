@@ -1,0 +1,1 @@
+from cicd.function_app import app
